@@ -1,5 +1,7 @@
 # Conditionals
 
+This repository contains a simple application of conditionals.
+
 ## Respository structure
 
 - The folder [Code](/Code/) contains the code.
