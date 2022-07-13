@@ -5,7 +5,7 @@
 
 ## Statement
 
-This [document](/Documentation/statement.pdf) contains the functionality for each file and function.
+This [document](/Documentation/statement.pdf) contains the requirments and functionality for each file and function.
 
 ## Objectives
 
